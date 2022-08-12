@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "681251195886",
+    "project_id": "exor-log-ac156",
+    "storage_bucket": "exor-log-ac156.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681251195886:android:b26b8f092f240fcf0f9cff",
+        "android_client_info": {
+          "package_name": "com.redting.dev_team.exer_log_revamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681251195886-8jp63r7ufl8eg0kepr88oohri7sbf7p5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.redting.dev_team.exer_log_revamp",
+            "certificate_hash": "31c155c32b86c34876b774f2a591def878f05110"
+          }
+        },
+        {
+          "client_id": "681251195886-fj3gr3oo8ejbrm2ir1obvth8si0qp8oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqU55NJwuSaJdUaBeIELPq80703iYh-IE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681251195886-fj3gr3oo8ejbrm2ir1obvth8si0qp8oj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "681251195886-stp14iaf4lfkal502csahekci6nda0j2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.redting.devteam.exerLogRevamp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
